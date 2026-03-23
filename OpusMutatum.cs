@@ -24,7 +24,7 @@ namespace OpusMutatum
         // for strings
         static string MainMethodName = "#=qSG$_chV2DfCuOh0Wyt1VTA==.#=q$Lp9xgOThiWmLF6onep$zw==";
         static string StringDeobfName = "#=qlXnwZEZK0VwUerVSgSb50mnjnluSGfDI5GGxyBcdS1I=.#=qvFmMRDm2hZxwnS1OZUMbng==";
-        static string StringDeobfIntermediaryName = "method_516";
+        static string StringDeobfIntermediaryName = "method_520";
 
 		static List<string> MappingPaths = new List<string>();
         static List<string> IntermediaryPaths = new List<string>();
