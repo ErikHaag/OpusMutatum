@@ -22,9 +22,9 @@ namespace OpusMutatum
         static string PathToMonoMod = "./MonoMod.exe";
 
         // for strings
-        static string MainMethodName = "#=qSG$_chV2DfCuOh0Wyt1VTA==.#=q$Lp9xgOThiWmLF6onep$zw==";
-        static string StringDeobfName = "#=qlXnwZEZK0VwUerVSgSb50mnjnluSGfDI5GGxyBcdS1I=.#=qvFmMRDm2hZxwnS1OZUMbng==";
-        static string StringDeobfIntermediaryName = "method_520";
+        static string MainMethodName = "#=qSfvi8f4XAKSx6ARuX2FUqg==.#=qEJb$c9PXEeHygmnGV$5O5w==";
+        static string StringDeobfName = "#=q2EPbWi4HZqbkGDFcUMi56ZzB8VAbZoGcTMgcY2RDY4U=.#=qxhTjFucaGQlys0scwq0Ymw==";
+        static string StringDeobfIntermediaryName = "method_79";
 
 		static List<string> MappingPaths = new List<string>();
         static List<string> IntermediaryPaths = new List<string>();
